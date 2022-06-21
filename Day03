@@ -1,0 +1,45 @@
+pwd
+  267  ls
+  268  cd Desktop/
+  269  ls
+  270  mkdir Gay
+  271  touch Demo.txt
+  272  ls -l
+  273  chmod 777 Demo.txt
+  274  ls -l
+  275  cat Demo.txt
+  276  cat >> Demo.txt
+  277  ls -l
+  278  ls -lh
+  279  cat > Demo.txt
+  280  cat Demo.txt
+  281  ls -l
+  282  chmod u -r Demo.txt
+  283  chmod u-r Demo.txt
+  284  sudo chmod u-r Demo.txt
+  285  ls -l
+  286  sudo chmod u-w Demo.txt
+  287  ls -l
+  288  sudo chmod u+w Demo.txt
+  289  ls -l
+  290  sudo chmod u+r Demo.txt
+  291  ls -l
+  292  cat Demo.txt
+  293  sudo chmod u-r Demo.txt
+  294  ls -l
+  295  cat Demo.txt
+  296  sudo chmod ugo-r Demo.txt
+  297  sudo chmod ugo-rwx Demo.txt
+  298  ls -l
+  299  cat Demo.txt
+  300  history
+
+whatis chown = change file owner and group
+
+sudo chown root Demo.txt          = user will change
+
+whatis chgrp = change group ownership
+
+sudo chgrp root Demo.txt  
+
+

@@ -1,0 +1,46 @@
+1. wget
+2. zip/unzip
+3. tar
+4. useradd / userdel
+5. grep
+6. cat /etc/services
+7. reboot
+8. shutdown –r
+9. shutdown now
+10. shutdown –c
+
+centos is stands for community enterprise operating system
+
+wget = which will allow u download anylink in shell
+centos rpm
+
+zip/unzip = 
+
+tar -cvf KD.tar xampp-cli-master
+
+du -h xampp-cli-master/
+
+tar -xvf Kd.tar
+
+whoami   
+
+
+useradd Sony
+passwd Sony (Asking password)
+su Sony
+whoami
+it shows Sony
+ll
+
+
+sudo ls
+
+ls
+
+sudo ls
+
+su root
+
+userdel Sony
+
+grep = will find the 

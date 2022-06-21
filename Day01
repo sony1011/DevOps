@@ -1,0 +1,42 @@
+Day1 May 23 2022
+
+pwd = present working Directory
+hostname 
+ps -aux = it will show u d complete process tree
+process all 
+netstat -tupln = listrening opening      to check which port 
+touch sony 
+vi sony
+cat sony = check the content
+vi sony 
+:set nu =it has given the line numbers
+specific content = :/G(g is content what we want to search particular content)  searching a file or content what we want
+rm -rf sony = remove 
+uname -r = it will tell u architecture
+uname -a = it will give u the cmplt detail
+cat /etc/system-release = wt is d actual version we use
+who = tell the who logged into the server 
+last =  it will tell u about who all logged into still logged in
+history 
+free = it will gives information about used and unused memory usage and 
+      swap  memeory of system.
+
+Important partitions
+===================
+/
+/boot
+/var
+/swap
+
+
+8GB   -    16GB (swap will always double the ram)
+
+8GB   -   A process is taking more than 12GB  -  8GB RAM  -  4GB swap
+
+virtual memory which hold d temporary process 
+
+date
+
+time
+
+dpkq --    
